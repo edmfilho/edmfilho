@@ -1,5 +1,6 @@
-## Hi there 👋
+# Edmar Filho
 
+Desenvolvedor na [Simples Meios de Pagamentos](https://www.beyondtecnologia.com.br/)
 <!--
 **edmfilho/edmfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Instagram](https://img.shields.io/badge/%40edmar.filho-252525?logo=instagram&link=https://www.instagram.com/_edmar.filho)](https://www.instagram.com/_edmar.filho/)
+[![Linkedin](https://img.shields.io/badge/Edmar%20Filho-252525?logo=linkedin&link=https://www.linkedin.com/in/edmar-filho-183966260)](www.linkedin.com/in/edmar-filho-183966260)
