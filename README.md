@@ -4,23 +4,17 @@
 
 Desenvolvedor Junior III na Simples Meios de Pagamentos
 
-___
-
 ## 🎓 Formação acadêmica
 
 Bacharelando em **Ciência e Tecnologia** na Universidade Federal do Rio Grande do Norte [UFRN](https://www.ufrn.br/).
 
 Técnico em **Manutenção e Suporte em Informática** pelo Instituto Federal do Rio Grande do Norte [IFRN](https://portal.ifrn.edu.br/)
 
-___
-
 ## 🧑‍💼 Sobre mim
 
 Sou apaixonado por tecnologia, estou sempre buscando aprender e me aprimorar. Gosto de me aprofundar em um assunto e compartilhar esse novo conhecimento, pois isso reforça o que aprendi e pode ajudar outras pessoas também.
 
 Tenho experiência em desenvolvimento web e back, especialmente em Go, PHP, Docker e JavaScript. Sou dedicado, proativo e gosto de trabalhar em equipe para alcançar os melhores resultados.
-
-___
 
 ## 🧑‍💻 Principais tecnologias
 
@@ -31,8 +25,6 @@ ___
 ![PostgreSQL](./icons/icons8-postgreesql-48.png)
 ![Git](./icons/icons8-git-48.png)
 ![Linux](./icons/icons8-linux-48.png)
-
-___
 
 ## 📧 Contato
 
